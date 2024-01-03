@@ -1,6 +1,6 @@
 {
 	"name": "orn8's iPA Repo",
-	"subtitle": "The wackiest apps on the internet..",
+	"subtitle": "The wackiest apps on the internet.",
 	"description": "An iPA repository for the worst, best, and weirdest apps I found on the web.",
 	"iconURL": "https://raw.githubusercontent.com/orn8/ipa/main/icon.png",
 	"headerURL": "https://raw.githubusercontent.com/orn8/ipa/main/header.png",
@@ -29,6 +29,7 @@
 					"downloadURL": "https://github.com/donato-fiore/TrollStoreGameSeagull/releases/download/v1.0/GameSeagull.ipa",
 					"localizedDescription": "Initial release (of the TrollStore version).",
 					"minOSVersion": "10.0"
+					"maxOSVersion": "17.0"
 				}
 			],
 			"appPermissions": {
