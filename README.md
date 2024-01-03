@@ -17,5 +17,5 @@ If you like this project, please star this repo. It would mean the world to me. 
 ---
 
 <blockquote>
-<h3>Inspiration from <a href="https://www.appfair.net/fairapps-ios.json/">AppFair iPA repo</a> and <a href="https://sidestore.io/">SideStore</a>.</h3>
+<h3>Inspiration from the <a href="https://www.appfair.net/fairapps-ios.json/">AppFair iPA repo</a> and <a href="https://sidestore.io/">SideStore</a>.</h3>
 </blockquote>
