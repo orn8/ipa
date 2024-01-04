@@ -12,7 +12,7 @@ If you like this project, please star this repo. It would mean the world to me. 
 1. Go to the [Pages Site](https://orn8.github.io/ipa).
 2. Click "*Add repo to* [*your signing service*]".
 3. Search for "[*the app you desire*]" and install it.
-4. You might get an error saying "*An unknown error occured while installing this app.*" when installing some apps in TrollApps. This is a false-positive and can be ignored. If curious, click [here](https://github.com/orn8/ipa/issues/1) to learn more.
+4. You might get an error saying "*An unknown error occured while installing this app.*" when installing some apps in TrollApps. This is a false-positive and can be ignored. Click [here](https://github.com/orn8/ipa/issues/1) to learn more.
 ###### The source code for the [Pages Site](https://orn8.github.io/ipa) and all iPA repo files are in the [pages](https://github.com/orn8/ipa/tree/pages) branch.
 
 ---
