@@ -13,6 +13,7 @@ If you like this project, please star this repo. It would mean the world to me. 
 2. Click "*Add repo to* [*your signing service*]".
 3. Search for "[*the app you desire*]" and install it.
 4. You might get an error saying "*An unknown error occured while installing this app.*" in TrollApps. This is a false-positive and you can ignore it.
+###### All sources and code for the [Pages Site](https://orn8.github.io/ipa) is in the [pages](https://github.com/orn8/ipa/tree/pages) branch of the repo.
 
 ---
 
