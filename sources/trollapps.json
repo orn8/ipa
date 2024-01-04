@@ -1,0 +1,78 @@
+{
+	"name": "orn8's iPA Repo",
+	"subtitle": "The wackiest apps on the internet.",
+	"description": "An iPA repository for the worst, best, and weirdest apps I found on the web.",
+	"iconURL": "https://raw.githubusercontent.com/orn8/ipa/main/icon.png",
+	"headerURL": "https://raw.githubusercontent.com/orn8/ipa/main/header.png",
+	"tintColor": "#FC6A04",
+	"featuredApps": [
+		"com.gamerdelights.gamepigeon"
+	],
+	"apps": [
+		{
+			"name": "GameSeagull",
+			"bundleIdentifier": "com.gamerdelights.gamepigeon",
+			"developerName": "donato-fiore",
+			"subtitle": "Mod-menu for GamePigeon.",
+			"localizedDescription": "GameSeagull is a mod-menu based cheat for GamePigeon. It contains many cheats such as seeing enemy ships in Sea Battle. It also supports spoofing wins.",
+			"iconURL": "https://raw.githubusercontent.com/orn8/ipa/main/icons/gameseagull.png",
+			"tintColor": "#DEDEDE",
+			"screenshotURLs": [
+				"https://raw.githubusercontent.com/orn8/ipa/main/screenshots/gameseagull/1.png",
+				"https://raw.githubusercontent.com/orn8/ipa/main/screenshots/gameseagull/2.png"
+			],
+			"versions": [
+				{
+					"version": "1.0",
+					"date": "2023-12-26",
+					"size": 90271704,
+					"downloadURL": "https://github.com/donato-fiore/TrollStoreGameSeagull/releases/download/v1.0/GameSeagull.ipa",
+					"localizedDescription": "Initial release (of the TrollStore version).",
+					"minOSVersion": "10.0"
+				}
+			],
+			"appPermissions": {
+				"entitlements": [],
+				"privacy": []
+			}
+		},
+		{
+			"name": "Cloud Cuckoo",
+			"bundleIdentifier": "app.Cloud-Cuckoo",
+			"developerName": "fairapps <fairapps@appfair.org>",
+			"subtitle": "A game of whimsey!",
+			"localizedDescription": "A simple and delightful game. Keep tapping the Cuckoo to maximize your simulated profits.\nAs you progress, the number of dots will grow, making the Cuckoo harder to spot. Don't give up!\nIf you've lost the Cuckoo, drag down to reduce the number of dots (and your points along with them).\n",
+			"iconURL": "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.356/Cloud-Cuckoo.png",
+			"tintColor": "#05A6FF",
+			"screenshotURLs": [
+				"https://raw.githubusercontent.com/orn8/ipa/main/screenshots/cloud-cuckoo/1.png"
+			],
+			"versions": [
+				{
+					"version": "0.9.356",
+					"date": "2023-02-27",
+					"size": 1876119,
+					"downloadURL": "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.356/Cloud-Cuckoo-iOS.ipa",
+					"localizedDescription": "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.355...0.9.356"
+				}
+			],
+			"appPermissions": {
+				"entitlements": [],
+				"privacy": []
+			}
+		}
+	],
+	"news": [
+		{
+			"title": "GameSeagull for TrollStore released!",
+			"identifier": "gameseagull-release",
+			"caption": "GameSeagull for TrollStore is officially out! Devices that support TrollStore 1.0 or 2.0 can now use GameSeagull.",
+			"date": "2023-12-26",
+			"tintColor": "#585858",
+			"imageURL": "https://raw.githubusercontent.com/orn8/ipa/main/news/gameseagull-release.png",
+			"notify": false,
+			"url": "https://github.com/donato-fiore/TrollStoreGameSeagull",
+			"appID": "com.gamerdelights.gamepigeon"
+		}
+	]
+}
