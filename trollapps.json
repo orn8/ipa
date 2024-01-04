@@ -35,6 +35,31 @@
 				"entitlements": [],
 				"privacy": []
 			}
+		},
+		{
+			"name": "Cloud Cuckoo",
+			"bundleIdentifier": "app.Cloud-Cuckoo",
+			"developerName": "fairapps <fairapps@appfair.org>",
+			"subtitle": "A game of whimsey!",
+			"localizedDescription": "A simple and delightful game. Keep tapping the Cuckoo to maximize your simulated profits.\nAs you progress, the number of dots will grow, making the Cuckoo harder to spot. Don't give up!\nIf you've lost the Cuckoo, drag down to reduce the number of dots (and your points along with them).\n",
+			"iconURL": "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.356/Cloud-Cuckoo.png",
+			"tintColor": "#05A6FF",
+			"screenshotURLs": [
+				"https://raw.githubusercontent.com/orn8/ipa/main/screenshots/cloud-cuckoo/1.png"
+			],
+			"versions": [
+				{
+					"version": "0.9.356",
+					"date": "2023-02-27",
+					"size": 1876119,
+					"downloadURL": "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.356/Cloud-Cuckoo-iOS.ipa",
+					"localizedDescription": "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.355...0.9.356"
+				}
+			],
+			"appPermissions": {
+				"entitlements": [],
+				"privacy": []
+			}
 		}
 	],
 	"news": [

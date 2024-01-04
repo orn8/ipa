@@ -36,6 +36,7 @@ I'll happily merge any pull requests that would make a nice addition.
 Name | Description | Version | Status
 ---|---|---|---
 **GameSeagull** | A mod-menu based hack for GamePigeon. | `1.0` | ✅
+**Cloud Cuckoo** | A game of whimsey! | `0.9.356` | ✅
 
 </br>
 
