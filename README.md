@@ -37,7 +37,7 @@ I'll happily merge any pull requests that would make a nice addition.
 Name | Description | Version | Status
 ---|---|---|---
 **GameSeagull** | A mod-menu based hack for GamePigeon. | `1.0` | ✅
-**Cloud Cuckoo** | A game of whimsey! | `0.9.356` | ✅
+**Cloud Cuckoo** | A simple game where you have to click the "*Cuckoo*" to earn points. It gets harder and harder to spot the "*Cuckoo*" over time as you earn points. | `0.9.356` | ✅
 
 </br>
 
