@@ -1,4 +1,4 @@
-# orn8's iPA Repo
+# oragnes iPA Repo
 
 This is an iPA repo for a collection of interesting apps I've found. </br>
 Please keep in mind that I have not made any of the apps featured in the repo, others have made them. </br>
