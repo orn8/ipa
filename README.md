@@ -38,9 +38,3 @@ Name | Description | Version | Status
 ---|---|---|---
 **GameSeagull** | A mod-menu based hack for GamePigeon. | `2.1` | ✅
 **Cloud Cuckoo** | A simple game where you have to click the "*Cuckoo*" to earn points. It gets harder and harder to spot the "*Cuckoo*" over time as you earn points. | `0.9.356` | ✅
-
-<br/>
-
-<blockquote>
-<h3>Inspiration from the <a href="https://www.appfair.net/fairapps-ios.json">AppFair iPA repo</a> and <a href="https://sidestore.io/">SideStore</a>.</h3>
-</blockquote>
